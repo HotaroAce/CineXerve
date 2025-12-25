@@ -1,0 +1,50 @@
+[
+  {
+    "email": "admin@cinexerve.local",
+    "name": "Reece Gwapo",
+    "passwordHash": "$2b$10$Un5ybpyncBLuXnQRzhiwW.OMQmd1qw9KNlxOUNbD0SMzQPRyu1bAi",
+    "createdAt": "2025-12-15T14:23:03.938Z"
+  },
+  {
+    "email": "thomas@gmail.com",
+    "name": "Thom",
+    "passwordHash": "$2b$10$T6R18oSNM8FKeGgsPIr5AO2zxwxdIoAKj7crOpNifVh7bvLpDoABq",
+    "createdAt": "2025-12-15T09:20:10.045Z"
+  },
+  {
+    "email": "reece@gmai.com",
+    "name": "reece",
+    "passwordHash": "$2b$10$sSqhneJ4MoV2G0baIWLVyeQiHiwZcy7s.j9l.4WX0DDNGX0vThSc2",
+    "createdAt": "2025-12-15T09:22:35.861Z"
+  },
+  {
+    "email": "reece2@gmail.com",
+    "name": "reececheeeee",
+    "passwordHash": "$2b$10$2ZebVcEyDxFKbuGhbLvWK.IgJnVY3OE1RgyZ0n9HyZtidrf6lFYD6",
+    "createdAt": "2025-12-15T09:23:36.959Z"
+  },
+  {
+    "email": "aceberalde133@gmail.com",
+    "name": "Ace",
+    "passwordHash": "$2b$10$SrWI8QotuETZxrkK9nVISOekq9CdikyP8dvkKVXjL4Y.rA943r5K6",
+    "createdAt": "2025-12-15T13:26:03.346Z"
+  },
+  {
+    "email": "audit-user@cinexerve.local",
+    "name": "Audit User",
+    "passwordHash": "$2b$10$yu6xDKqVyNpL.2eqHl.huOr7yZwGuuQ0TZZ60twErXPxDAnVX7wE.",
+    "createdAt": "2025-12-15T13:37:57.047Z"
+  },
+  {
+    "email": "pogiako@gmail.com",
+    "name": "Thom",
+    "passwordHash": "$2b$10$sDHLeHuyEjAdEmNMu2eMMOFuRoYYp0wE0x2/LPyhY1Wgp3oqUT9u2",
+    "createdAt": "2025-12-15T17:11:33.984Z"
+  },
+  {
+    "email": "acepogi@gmail.com",
+    "name": "Ace Beralde",
+    "passwordHash": "$2b$10$Xxb6fcZ8jJaSolPB/XeOw.oQfZqfZ8GyLcK6sPliiDUXH9uS.3q2a",
+    "createdAt": "2025-12-15T17:32:54.381Z"
+  }
+]
